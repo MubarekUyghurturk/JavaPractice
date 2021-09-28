@@ -1,7 +1,5 @@
 package replitTasks.arrays;
 
-import homeWork.array_Practice_I._100_Number_Array;
-
 import java.util.Scanner;
 
 public class Find_Sum {
